@@ -10,6 +10,7 @@ namespace Maze_Gavrilova_C_
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
